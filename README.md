@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beppe94
-- 👀 I’m interested in new tech 
+- 👀 I’m interested in tech and science.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on everthing thats interesting 
 - 📫 How to reach me https://twitter.com/Beppe994
