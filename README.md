@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beppe94
-- 👀 I’m interested in tech and science.
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in tech and science
+- 🌱 I’m currently learning web development front-end and back-end 
 - 💞️ I’m looking to collaborate on everthing thats interesting 
 - 📫 How to reach me https://twitter.com/Beppe994
 
