@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Beppe94
 - 👀 I’m interested in tech and science
 - 🌱 I’m currently learning web development full-stack 
-- 📫 How to reach me https://twitter.com/Beppe994
 
 <!---
 Beppe94/Beppe94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
